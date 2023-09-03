@@ -9,6 +9,7 @@ title: 'Archive'
 - [DUETCS Notice Template: .pdf](https://drive.google.com/file/d/1_CY75SmQBuxdkrmg7lRhrTobsOOGMcAq/view?usp=sharing)   
 
 ### Executive Bodies:
+- <a href="https://drive.google.com/file/d/1RdqbPUSkKuYT96rYt96MRRTAkAYG6FRU/view?usp=sharing" target="_blank">Executive Committee 2023-24</a>
 - <a href="https://drive.google.com/file/d/15InUXvUQaKGL6MKdZhjAPzvLoVrfvi68/view?usp=sharing" target="_blank">Executive Committee 2022-23</a>
 - <a href="https://drive.google.com/file/d/1sJz60PenY5rAfU5ki993zLudpBOOI8Ei/view?usp=sharing" target="_blank">Executive Committee 2021-22</a>
 - Committee 2019 continued on 2020 due to Corona
