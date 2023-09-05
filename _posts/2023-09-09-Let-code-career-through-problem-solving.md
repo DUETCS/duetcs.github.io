@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Let's Code Your Career Through Problem Solving"
-comments: true
+comments: false
 categories: Events
 location: DUET, Bangladesh
 author: Taufik Hasan
