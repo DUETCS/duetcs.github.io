@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Let's Code Your Career Through Problem Solving"
+title: "Lets Code Your Career Through Problem Solving"
 comments: false
 categories: Events
 location: DUET, Bangladesh
