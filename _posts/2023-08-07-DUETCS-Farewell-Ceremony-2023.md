@@ -8,8 +8,9 @@ author: Taufik Hasan
 ---
 
 ![Administrative Bodies](/post_images/Farewel/Farewell_2023_1.jpg){:.center-image} 
-<center> <small>Administrative Bodies</small> </center> <br><br>
-![Administrative Bodies](/post_images/Farewel/Farewell_2023_flash_mob.jpg){:.center-image}
+<center> <small>Administrative Bodies</small> </center> <br>
+
+![New Executive Bodies](/post_images/Farewel/Farewell_2023_flash_mob.jpg){:.center-image}
 <center> <small>New Executive Bodies</small> </center> <br>
 
 "DUETCS Farewell Ceremony 2023"
@@ -24,11 +25,15 @@ Room No. 311 (Old Academic Building)
 
 At the end of the ceremony, the 2023–2024 executive bodies of the DUET Computer Society were announced.
 
+
 Newly elected
-![Executive Bodies](/post_images/Farewel/President_2023_24.jpeg){:.center-image} 
-<center> <small>President: Md. Taufik Hasan, CSE, Final Year</small> </center> <br><br>
-![Administrative Bodies](/post_images/Farewel/General_seceratery_2023_24.jpg){:.center-image}
-<center> <small>& General Secretary: Anik Chandra Deb, CSE, 3rd year</small> </center> <br>
+
+![Executive Bodies](/post_images/Farewel/President_2023_24.jpeg){:.center-image}
+
+<center> <small>President Taufik Hasan, CSE, Final year</small> </center> <br>
+
+![Executive Bodies](/post_images/Farewel/General_seceratery_2023_24.jpg){:.center-image}
+<center> <small> General Secretary: Anik Chandra Deb, CSE, 3rd year</small> </center> <br>
 
 All executive bodies are <a href="https://drive.google.com/file/d/1_hsYHw9HGbg-k0r4fTILDUPRa23RxGSD/view?usp=sharing">listed here.</a>
 

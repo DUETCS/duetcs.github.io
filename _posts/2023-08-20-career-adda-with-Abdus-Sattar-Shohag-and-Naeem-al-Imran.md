@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Career Adda online session with Software Engineers" was held.
+title: Career Adda online session with Software Engineers was held.
 comments: false
 description: Career Adda online session with Abdus Sattar Shohag and Abu Naeem al Imran
 image: /post_images/others/Career_Adda_Sattar_Naeem.png
