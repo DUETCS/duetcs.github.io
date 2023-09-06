@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lets Code Your Career Through Problem Solving.
-comments: true
+comments: false
 description: Lets Code Your Career Through Problem Solving On campus session with Programming hero and Phitron
 image: /post_images/others/let_code_career_through_problem_solving.png
 categories: Events
