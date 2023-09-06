@@ -12,6 +12,11 @@ author: Taufik Hasan
 ![Career Adda](/post_images/others/let_code_career_through_problem_solving.png){:.center-image} <br/>
 
 On September 9, 2023, the DUET Computer Society will arrange a problem-solving approach and programming career talk with Programming Hero's experienced mentors. In this event, our honorable chairman of the DUET Computer Society, Dr. Md. Obaidur Rahman, Professor and Head, Department of CSE, DUET, Gazipur, will be present as a chief guest. Also present will be Dr. Md. Shafiqul Islam, Professor, Department of CSE, DUET, Gazipur, and Counselor, DUET Computer Society, as a special guest. Chaired by Khawja Imran Masud, Assistant Professor, Department of CSE, DUET, Gazipur,Moderator, DUET Computer Society, and this event will be hosted by Md. Taufik Hasan, President, DUET Computer Society.
+
+Keynote Spekers:
+Mahmud Sajjad Abeer, Software Engineer, Optimizely. 
+Abdur Rakib, Chief operating Officer, Programming Hero.
+Emdadul Hoque Tareque, Manager, Phitron, Programming Hero. 
  
 It will be a nice networking opportunity, and the audience will have the option to ask direct questions to our keynote speakers.
 
