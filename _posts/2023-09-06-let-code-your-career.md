@@ -11,9 +11,11 @@ author: Taufik Hasan
 
 ![Career Adda](/post_images/others/let_code_career_through_problem_solving.png){:.center-image} <br/>
 
-On September 9, 2023, DUETCS goes to arrange a problem-solving approach and programming career talk, hosted by <a href="">Taufik Hasan</a>, with Programming Hero's experienced mentors.
+On September 9, 2023, the DUET Computer Society will arrange a problem-solving approach and programming career talk with Programming Hero's experienced mentors.
 
 It will be a nice networking opportunity, and the audience will have the option to ask direct questions.
+
+🎯 Limited Seats: Only 60 participants will be allowed through the registration process. Registration Link given below. 
 
 Hey there, problem-solving enthusiast! We've got something special for you—an offline session called "Let's Code Your Career Through Problem Solving" brought to you in collaboration with DUET Computer Club and Phitron by  Programming Hero.
 
@@ -64,3 +66,7 @@ Virtual Classroom,  Department of CSE, DUET.
 
 
 We are glad and thankful to everyone who made this beautiful event happen.
+
+<br>
+Written By:
+- <a href="https://www.facebook.com/taufik.cse">Taufik Hasan</a>, President, DUETCS(2023-24)
