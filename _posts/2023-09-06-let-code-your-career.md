@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lets Code Your Career Through Problem Solving.
-comments: false
+comments: true
 description: Lets Code Your Career Through Problem Solving On campus session with Programming hero and Phitron
 image: /post_images/others/let_code_career_through_problem_solving.png
 categories: Events
@@ -11,9 +11,9 @@ author: Taufik Hasan
 
 ![Career Adda](/post_images/others/let_code_career_through_problem_solving.png){:.center-image} <br/>
 
-On September 9, 2023, the DUET Computer Society will arrange a problem-solving approach and programming career talk with Programming Hero's experienced mentors.
-
-It will be a nice networking opportunity, and the audience will have the option to ask direct questions.
+On September 9, 2023, the DUET Computer Society will arrange a problem-solving approach and programming career talk with Programming Hero's experienced mentors. In this event, our honorable chairman of the DUET Computer Society, Dr. Md. Obaidur Rahman, Professor and Head, Department of CSE, DUET, Gazipur, will be present as a chief guest. Also present will be Dr. Md. Shafiqul Islam, Professor, Department of CSE, DUET, Gazipur, and Counselor, DUET Computer Society, as a special guest. Chaired by Khawja Imran Masud, Assistant Professor, Department of CSE, DUET, Gazipur,Moderator, DUET Computer Society, and this event will be hosted by Md. Taufik Hasan, President, DUET Computer Society.
+ 
+It will be a nice networking opportunity, and the audience will have the option to ask direct questions to our keynote speakers.
 
 🎯 Limited Seats: Only 60 participants will be allowed through the registration process. Registration Link given below. 
 
@@ -51,11 +51,6 @@ A Glimpse into Phitron (15 minutes): Explore Phitron's ethos, mission, and innov
 Conclusion and Feedback (10 minutes): Recap key takeaways and encourage integration into daily life. Shape future seminars with your valuable feedback.
 
 
-🎯 Limited Seats: 
-
-We can't invite everyone this time, but don't worry! We're planning more sessions to make sure everyone gets a chance.
-
-
 🚀 Unlock the Power of Problem Solving to code_ your career in tech! 🚀
 
 Virtual Classroom,  Department of CSE, DUET.
@@ -65,7 +60,9 @@ Virtual Classroom,  Department of CSE, DUET.
 <center> <small>For Registration <a href="https://forms.gle/fn72ktMEYkGVjjDaA">Click Here.</a></small> </center> <br>
 
 
-We are glad and thankful to everyone who made this beautiful event happen.
+🎯 Limited Seats: 
+
+We can't invite everyone this time, but don't worry! We're planning more sessions to make sure everyone gets a chance.
 
 <br>
 Written By:
