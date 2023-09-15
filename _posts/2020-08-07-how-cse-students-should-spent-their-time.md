@@ -1,6 +1,6 @@
 ---
 layout: post
-title: কীভাবে একজন সিএসই শিক্ষার্থী নিজের সময় ব্যয় করবে। 
+title: কীভাবে একজন সিএসই শিক্ষার্থী নিজের সময় ব্যয় করবে
 comments: false
 categories: Misc
 location: DUET, Bangladesh
